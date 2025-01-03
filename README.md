@@ -1,4 +1,4 @@
-This is a sample project that utilizes a Java Agent to intercept `System.out` to inspect for Personally Identifiable Information (PII) (ppi).  It makes use of OpenAI for inspection.
+This is a sample project that utilizes a Java Agent to intercept `System.out` to inspect for Personally Identifiable Information (PII).  It makes use of OpenAI for inspection.
 
 The instructions given to the model are:
 
